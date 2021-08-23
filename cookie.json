@@ -1,0 +1,95 @@
+﻿{
+    "comment": "This file is for example only. Do not use it actually.",
+    "actualCookie": [
+        {
+            "domain": ".violet.vn",
+            "expirationDate": 9999999999,
+            "hostOnly": false,
+            "httpOnly": false,
+            "name": "__gpi",
+            "path": "/",
+            "sameSite": null,
+            "secure": false,
+            "session": false,
+            "storeId": null,
+            "value": "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+        },
+        {
+            "domain": ".violet.vn",
+            "expirationDate": 9999999999,
+            "hostOnly": false,
+            "httpOnly": false,
+            "name": "__gads",
+            "path": "/",
+            "sameSite": null,
+            "secure": false,
+            "session": false,
+            "storeId": null,
+            "value": "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+        },
+        {
+            "domain": ".violet.vn",
+            "expirationDate": 9999999999,
+            "hostOnly": false,
+            "httpOnly": false,
+            "name": "fosp_aid",
+            "path": "/",
+            "sameSite": null,
+            "secure": false,
+            "session": false,
+            "storeId": null,
+            "value": "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+        },
+        {
+            "domain": ".violet.vn",
+            "expirationDate": 9999999999,
+            "hostOnly": false,
+            "httpOnly": false,
+            "name": "fosp_location_zone",
+            "path": "/",
+            "sameSite": null,
+            "secure": false,
+            "session": false,
+            "storeId": null,
+            "value": "0"
+        },
+        {
+            "domain": ".violet.vn",
+            "expirationDate": 9999999999,
+            "hostOnly": false,
+            "httpOnly": false,
+            "name": "orig_aid",
+            "path": "/",
+            "sameSite": null,
+            "secure": false,
+            "session": false,
+            "storeId": null,
+            "value": "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+        },
+        {
+            "domain": ".violet.vn",
+            "hostOnly": false,
+            "httpOnly": false,
+            "name": "symfony",
+            "path": "/",
+            "sameSite": null,
+            "secure": false,
+            "session": true,
+            "storeId": null,
+            "value": "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+        },
+        {
+            "domain": "baigiang.violet.vn",
+            "expirationDate": 9999999999.999999,
+            "hostOnly": true,
+            "httpOnly": false,
+            "name": "tvtl",
+            "path": "/",
+            "sameSite": null,
+            "secure": false,
+            "session": false,
+            "storeId": null,
+            "value": "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+        }
+    ]
+}
